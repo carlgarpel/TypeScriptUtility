@@ -1,0 +1,12 @@
+{
+    "auto-close-tag.disableOnLanguage": [
+    
+    ],
+     
+        "editor.formatOnSave": false, 
+        "editor.codeActionsOnSave": { 
+          "source.fixAll.eslint": true 
+        }, 
+        "eslint.alwaysShowStatus": true
+      
+}
